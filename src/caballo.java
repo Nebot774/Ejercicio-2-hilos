@@ -33,6 +33,7 @@ public class caballo extends Thread{
             }
         }
 
+        System.out.println("el caballo a finalizado la carrera");
     }
 
 }

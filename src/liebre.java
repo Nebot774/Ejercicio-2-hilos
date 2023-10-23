@@ -33,7 +33,7 @@ public class liebre extends Thread {
 
             }
         }
-
+        System.out.println("la liebra a finalizado la carrera");
     }
 
 

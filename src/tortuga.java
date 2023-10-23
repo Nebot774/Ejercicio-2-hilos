@@ -33,7 +33,7 @@ public class tortuga extends Thread{
 
             }
         }
-
+        System.out.println("la tortuga a finalizado la carrera");
     }
 
 

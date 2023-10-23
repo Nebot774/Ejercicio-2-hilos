@@ -33,5 +33,7 @@ public class perro extends Thread{
             }
         }
 
+        System.out.println("El perro a acabado la carrera");
+
     }
 }
